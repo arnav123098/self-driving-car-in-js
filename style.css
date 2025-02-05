@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+#canvas {
+    background-color: lightgray;
+}
+
+button {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+}
